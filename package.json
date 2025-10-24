@@ -1,4 +1,4 @@
 {
-  "version": "0.0.6",
-  "name": "dns_zone"
+  "name": "private_dns_zone",
+  "version": "0.0.2"
 }
